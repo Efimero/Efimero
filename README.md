@@ -1,9 +1,9 @@
 ### Efi
 - 🏳️‍🌈 I'm gay
 - 💾 I make videogames
-- <img src="https://clojure.org/images/clojure-logo-icon-32.png" width="16" /> I try to use Clojure mostly
+- <img src="https://clojure.org/images/clojure-logo-icon-32.png" width="14" /> I try to use Clojure mostly
 - 🌐 I have a webpage: http://efi.glitch.me
-- <img src="https://chitter.xyz/favicon.ico" width="16" /> I'm on Mastodon: https://chitter.xyz/@efi
+- <img src="https://chitter.xyz/favicon.ico" width="14" /> I'm on Mastodon: https://chitter.xyz/@efi
 - 💸 I have no hope
 
 
